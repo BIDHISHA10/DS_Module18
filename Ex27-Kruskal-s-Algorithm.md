@@ -1,5 +1,5 @@
 # Ex6(B) Kruskal’s Algorithm
-## DATE:21-04-2025
+## DATE:07-05-2025
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
 
